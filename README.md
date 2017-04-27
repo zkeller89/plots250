@@ -10,4 +10,4 @@
 1. Be sure you have the `devtools` package installed, to do this type in:
   * `install.packages("devtools")`
 2. Install package using the `devtools::install_github(*) function`, to do this type in:
-  * `devtools::install_github("zkeller89/plots250")
+  * `devtools::install_github("zkeller89/plots250")`
