@@ -1,0 +1,15 @@
+Package: plots250
+Title: Assist in plotting normal probabilities and p-values for Stats 250 at the
+    University of Michigan
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Zachary", "Keller", email = "zkeller@umich.edu", role = c("aut", "cre")),
+  person("Joshua", "Errickson", role = "ctb"))
+Description: This package is intended to assist Stats 250 students in
+    visualizing probabilities, specifies those under the normal curve & p-values.
+Depends:
+    R (>= 3.3.2)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
